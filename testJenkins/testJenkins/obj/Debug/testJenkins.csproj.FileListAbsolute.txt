@@ -1,0 +1,9 @@
+D:\Test\Jenkins\testJenkins\testJenkins\bin\Debug\testJenkins.exe.config
+D:\Test\Jenkins\testJenkins\testJenkins\bin\Debug\testJenkins.exe
+D:\Test\Jenkins\testJenkins\testJenkins\bin\Debug\testJenkins.pdb
+D:\Test\Jenkins\testJenkins\testJenkins\obj\Debug\testJenkins.csprojResolveAssemblyReference.cache
+D:\Test\Jenkins\testJenkins\testJenkins\obj\Debug\testJenkins.Form1.resources
+D:\Test\Jenkins\testJenkins\testJenkins\obj\Debug\testJenkins.Properties.Resources.resources
+D:\Test\Jenkins\testJenkins\testJenkins\obj\Debug\testJenkins.csproj.GenerateResource.Cache
+D:\Test\Jenkins\testJenkins\testJenkins\obj\Debug\testJenkins.exe
+D:\Test\Jenkins\testJenkins\testJenkins\obj\Debug\testJenkins.pdb
