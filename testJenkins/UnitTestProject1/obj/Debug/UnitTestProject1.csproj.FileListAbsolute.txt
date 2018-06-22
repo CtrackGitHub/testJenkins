@@ -1,0 +1,9 @@
+D:\Test\Jenkins\testJenkins\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+D:\Test\Jenkins\testJenkins\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+D:\Test\Jenkins\testJenkins\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+D:\Test\Jenkins\testJenkins\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Test\Jenkins\testJenkins\UnitTestProject1\bin\Debug\testJenkins.exe
+D:\Test\Jenkins\testJenkins\UnitTestProject1\bin\Debug\testJenkins.pdb
+D:\Test\Jenkins\testJenkins\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\Test\Jenkins\testJenkins\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+D:\Test\Jenkins\testJenkins\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
