@@ -6,4 +6,3 @@ D:\Test\Jenkins\testJenkins\testJenkins\obj\Debug\testJenkins.Properties.Resourc
 D:\Test\Jenkins\testJenkins\testJenkins\obj\Debug\testJenkins.csproj.GenerateResource.Cache
 D:\Test\Jenkins\testJenkins\testJenkins\obj\Debug\testJenkins.exe
 D:\Test\Jenkins\testJenkins\testJenkins\obj\Debug\testJenkins.pdb
-D:\Test\Jenkins\testJenkins\testJenkins\obj\Debug\testJenkins.csprojResolveAssemblyReference.cache
