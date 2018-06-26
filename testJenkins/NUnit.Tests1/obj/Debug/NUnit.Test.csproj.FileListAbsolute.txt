@@ -1,0 +1,2 @@
+D:\Test\Jenkins\testJenkins\NUnit.Tests1\obj\Debug\NUnit.Tests1.dll
+D:\Test\Jenkins\testJenkins\NUnit.Tests1\obj\Debug\NUnit.Tests1.pdb
