@@ -1,0 +1,10 @@
+D:\Test\Jenkins\testJenkins\Text.Test\bin\Debug\Text.Test.dll.config
+D:\Test\Jenkins\testJenkins\Text.Test\bin\Debug\Text.Test.dll
+D:\Test\Jenkins\testJenkins\Text.Test\bin\Debug\Text.Test.pdb
+D:\Test\Jenkins\testJenkins\Text.Test\bin\Debug\nunit.framework.dll
+D:\Test\Jenkins\testJenkins\Text.Test\bin\Debug\testJenkins.exe
+D:\Test\Jenkins\testJenkins\Text.Test\bin\Debug\testJenkins.pdb
+D:\Test\Jenkins\testJenkins\Text.Test\bin\Debug\nunit.framework.xml
+D:\Test\Jenkins\testJenkins\Text.Test\obj\Debug\Text.Test.csprojResolveAssemblyReference.cache
+D:\Test\Jenkins\testJenkins\Text.Test\obj\Debug\Text.Test.dll
+D:\Test\Jenkins\testJenkins\Text.Test\obj\Debug\Text.Test.pdb

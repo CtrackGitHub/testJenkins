@@ -3,3 +3,4 @@ D:\Test\Jenkins\testJenkins\JenkingsTestAPI\bin\JenkingsTestAPI.dll
 D:\Test\Jenkins\testJenkins\JenkingsTestAPI\bin\JenkingsTestAPI.pdb
 D:\Test\Jenkins\testJenkins\JenkingsTestAPI\obj\Debug\JenkingsTestAPI.dll
 D:\Test\Jenkins\testJenkins\JenkingsTestAPI\obj\Debug\JenkingsTestAPI.pdb
+D:\Test\Jenkins\testJenkins\JenkingsTestAPI\obj\Debug\JenkingsTestAPI.csprojResolveAssemblyReference.cache

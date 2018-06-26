@@ -14,7 +14,7 @@ namespace JenkingsTestAPI
     {
         public string GetData(int value)
         {
-            return string.Format("You entered: {0}", value);
+            return string.Format("You entered: {0}", value + 1);
         }
 
         public CompositeType GetDataUsingDataContract(CompositeType composite)
