@@ -8,7 +8,7 @@ namespace NUnit.Tests1
     //[ExpectedException(typeof(AssertionException))]
     public class TestClass
     {
-        [Test]
+        [TestCase]
         public void TestMethod()
         {
             var inputstr = "World";
