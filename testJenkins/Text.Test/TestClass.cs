@@ -1,14 +1,16 @@
 ﻿using NUnit.Framework;
 using System;
+
+using System;
+
 using testJenkins;
 
-namespace NUnit.Test
+namespace Text.Test
 {
     [TestFixture]
-    //[ExpectedException(typeof(AssertionException))]
     public class TestClass
     {
-        [TestCase]
+        [Test]
         public void TestMethod()
         {
             var inputstr = "World";
