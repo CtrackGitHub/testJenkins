@@ -5,11 +5,12 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testJenkins", "testJenkins\testJenkins.csproj", "{8AC137CF-2D20-4A24-8DB0-BE60A9FE27B5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{712B9BC4-987D-4CC6-8D88-B01948578DE2}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnit.Test2", "NUnit.Tests1\NUnit.Test2.csproj", "{8EDF4429-251A-416D-BB68-93F227191BCF}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Text.Test", "Text.Test\Text.Test.csproj", "{77BCA7A5-5968-4F73-A891-4FE18D2F9356}"
+	ProjectSection(ProjectDependencies) = postProject
+		{EB21B246-2226-4819-8D0F-FDB3865BBB77} = {EB21B246-2226-4819-8D0F-FDB3865BBB77}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JenkingsTestAPI", "JenkingsTestAPI\JenkingsTestAPI.csproj", "{EB21B246-2226-4819-8D0F-FDB3865BBB77}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,18 +22,14 @@ Global
 		{8AC137CF-2D20-4A24-8DB0-BE60A9FE27B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8AC137CF-2D20-4A24-8DB0-BE60A9FE27B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8AC137CF-2D20-4A24-8DB0-BE60A9FE27B5}.Release|Any CPU.Build.0 = Release|Any CPU
-		{712B9BC4-987D-4CC6-8D88-B01948578DE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{712B9BC4-987D-4CC6-8D88-B01948578DE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{712B9BC4-987D-4CC6-8D88-B01948578DE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{712B9BC4-987D-4CC6-8D88-B01948578DE2}.Release|Any CPU.Build.0 = Release|Any CPU
-		{8EDF4429-251A-416D-BB68-93F227191BCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8EDF4429-251A-416D-BB68-93F227191BCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8EDF4429-251A-416D-BB68-93F227191BCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8EDF4429-251A-416D-BB68-93F227191BCF}.Release|Any CPU.Build.0 = Release|Any CPU
 		{77BCA7A5-5968-4F73-A891-4FE18D2F9356}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{77BCA7A5-5968-4F73-A891-4FE18D2F9356}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{77BCA7A5-5968-4F73-A891-4FE18D2F9356}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{77BCA7A5-5968-4F73-A891-4FE18D2F9356}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB21B246-2226-4819-8D0F-FDB3865BBB77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB21B246-2226-4819-8D0F-FDB3865BBB77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB21B246-2226-4819-8D0F-FDB3865BBB77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB21B246-2226-4819-8D0F-FDB3865BBB77}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

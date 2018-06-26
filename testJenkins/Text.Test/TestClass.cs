@@ -1,9 +1,7 @@
 ﻿using NUnit.Framework;
 using System;
-
-using System;
-
 using testJenkins;
+using Text.Test.ServiceReference1;
 
 namespace Text.Test
 {
@@ -36,6 +34,24 @@ namespace Text.Test
             var teststr = bll.returnHello(inputstr);
 
             if (exptectedstr != teststr)
+            {
+                Assert.True(true);
+            }
+            else
+            {
+                AssertionException ex = new AssertionException("String Matched");
+                throw ex;
+            }
+        }
+
+        [Test]
+        public void ServiceRefence()
+        {
+            Service1Client client = new Service1Client();
+            var input = 10;
+            var exptectedstr = string.Format("You entered: {0}", input);
+            var teststr = client.GetData(10);
+            if (exptectedstr == teststr)
             {
                 Assert.True(true);
             }
