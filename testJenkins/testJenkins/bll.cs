@@ -10,7 +10,7 @@ namespace testJenkins
     {
         public static string returnHello(string str)
         {
-            return $"Hello {str} Kaaskoek";
+            return $"Hello {str}";
         }
     }
 }
