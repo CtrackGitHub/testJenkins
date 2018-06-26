@@ -22,6 +22,10 @@ namespace Text.Test
                 AssertionException ex = new AssertionException("Failed to Match string");
                 throw ex;
             }
+            else
+            {
+                Assert.True(true);
+            }
         }
     }
 }
