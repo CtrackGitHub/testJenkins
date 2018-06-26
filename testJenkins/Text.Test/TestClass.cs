@@ -27,5 +27,23 @@ namespace Text.Test
                 Assert.True(true);
             }
         }
+
+        [Test]
+        public void TestMethod2()
+        {
+            var inputstr = "World";
+            var exptectedstr = "Hello World KaasKoek";
+            var teststr = bll.returnHello(inputstr);
+
+            if (exptectedstr != teststr)
+            {
+                Assert.True(true);
+            }
+            else
+            {
+                AssertionException ex = new AssertionException("String Matched");
+                throw ex;
+            }
+        }
     }
 }
