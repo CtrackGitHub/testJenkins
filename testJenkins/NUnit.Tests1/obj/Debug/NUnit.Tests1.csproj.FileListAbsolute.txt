@@ -1,9 +1,9 @@
-D:\Test\Jenkins\testJenkins\NUnit.Tests1\obj\Debug\NUnit.Tests1.csprojResolveAssemblyReference.cache
 D:\Test\Jenkins\testJenkins\NUnit.Tests1\bin\Debug\NUnit.Tests1.dll
 D:\Test\Jenkins\testJenkins\NUnit.Tests1\bin\Debug\NUnit.Tests1.pdb
 D:\Test\Jenkins\testJenkins\NUnit.Tests1\bin\Debug\nunit.framework.dll
 D:\Test\Jenkins\testJenkins\NUnit.Tests1\bin\Debug\testJenkins.exe
 D:\Test\Jenkins\testJenkins\NUnit.Tests1\bin\Debug\testJenkins.pdb
 D:\Test\Jenkins\testJenkins\NUnit.Tests1\bin\Debug\nunit.framework.xml
+D:\Test\Jenkins\testJenkins\NUnit.Tests1\obj\Debug\NUnit.Tests1.csprojResolveAssemblyReference.cache
 D:\Test\Jenkins\testJenkins\NUnit.Tests1\obj\Debug\NUnit.Tests1.dll
 D:\Test\Jenkins\testJenkins\NUnit.Tests1\obj\Debug\NUnit.Tests1.pdb

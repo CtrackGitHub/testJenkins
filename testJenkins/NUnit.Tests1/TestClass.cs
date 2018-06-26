@@ -1,5 +1,5 @@
 ﻿using NUnit.Framework;
-
+using System;
 using testJenkins;
 
 namespace NUnit.Tests1
@@ -15,20 +15,10 @@ namespace NUnit.Tests1
             var exptectedstr = "Hello World";
             var teststr = bll.returnHello(inputstr);
 
-            if (exptectedstr == teststr)
+            if (exptectedstr != teststr)
             {
-                Assert.True(true);
-            }
-            else
-            {
-                try
-                {
-                    Assert.Fail();
-                }
-                catch (System.Exception)
-                {
-                    throw;
-                }
+                AssertionException ex = new AssertionException("Failed to Match string");
+                throw ex;
             }
         }
     }
