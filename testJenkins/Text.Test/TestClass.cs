@@ -43,23 +43,5 @@ namespace Text.Test
                 throw ex;
             }
         }
-
-        [Test]
-        public void ServiceRefence()
-        {
-            Service1Client client = new Service1Client();
-            var input = 10;
-            var exptectedstr = string.Format("You entered: {0}", input);
-            var teststr = client.GetData(10);
-            if (exptectedstr == teststr)
-            {
-                Assert.True(true);
-            }
-            else
-            {
-                AssertionException ex = new AssertionException("String Matched");
-                throw ex;
-            }
-        }
     }
 }

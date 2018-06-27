@@ -1,0 +1,8 @@
+D:\Test\Jenkins\testJenkins\WCF.Test\bin\Debug\WCF.Test.dll.config
+D:\Test\Jenkins\testJenkins\WCF.Test\bin\Debug\WCF.Test.dll
+D:\Test\Jenkins\testJenkins\WCF.Test\bin\Debug\WCF.Test.pdb
+D:\Test\Jenkins\testJenkins\WCF.Test\bin\Debug\nunit.framework.dll
+D:\Test\Jenkins\testJenkins\WCF.Test\bin\Debug\nunit.framework.xml
+D:\Test\Jenkins\testJenkins\WCF.Test\obj\Debug\WCF.Test.csprojResolveAssemblyReference.cache
+D:\Test\Jenkins\testJenkins\WCF.Test\obj\Debug\WCF.Test.dll
+D:\Test\Jenkins\testJenkins\WCF.Test\obj\Debug\WCF.Test.pdb
